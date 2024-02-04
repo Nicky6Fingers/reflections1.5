@@ -1,0 +1,21 @@
+# Web Development
+
+## Review
+
+What is the terminal? What are some synonyms for it?
+
+What is the prompt?
+
+What is a directory?
+
+What is cd?
+
+What is npm? What does it stand for? What is it used for?
+
+What file must be present for npm to work? (Manifest file)
+
+How do we add a script to package.json?
+
+How do we install a package? Why would we want to do this?
+
+What is Vite?
