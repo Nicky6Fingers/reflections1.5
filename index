@@ -2,20 +2,31 @@
 
 ## Review
 
-What is the terminal? What are some synonyms for it?
+1.What is the terminal? What are some synonyms for it?
+The terminal is the black screen that you insert the commands into
 
-What is the prompt?
+2.What is the prompt?
+The prompt *(or the little squiggly)* lets you know that you are in your home directory
 
-What is a directory?
+3.What is a directory?
+A directory is the folder that the files are located in, for example our programs are in the **Code** directory.
 
-What is cd?
+4.What is cd?
+cd stands for Change Directory, it lets us navigate through our directories on the terminal. for example, if you have 2 folders in one directory simply type *cd (directory name)* in the terminal and we will switch to that directory
 
-What is npm? What does it stand for? What is it used for?
+5.What is npm? What does it stand for? What is it used for?
+npm stands for Notes Package Manager it is used to install packages from json files easily as their could be dozens or more of them
 
-What file must be present for npm to work? (Manifest file)
+6.What file must be present for npm to work? (Manifest file)
+the json file, its kind of like the instruction manual for which packages the NPM needs to download and work through.
 
-How do we add a script to package.json?
+7.How do we add a script to package.json?
+You can go into the package.json file on vs code, and add something under the "Scripts" section. [^1]
 
-How do we install a package? Why would we want to do this?
+8.How do we install a package? Why would we want to do this?
+you use the *npmi* command and that installs the packages listed in the json then simply run the command *npm run (nameOfScript)*
 
-What is Vite?
+9.What is Vite?
+Vite is kind of like a self contained server that runs on your system, it can be accessed using the command *npm run dev* its important to note you will have to open up another terminal after this process starts running. One of the main benefits is that its "Hot-Reloading" so the F5 button spam can stop.
+
+[^1]: Not sure what more to add to this question so heres some MarkUp!
