@@ -1,0 +1,46 @@
+# Web Development
+
+## Review
+
+1.What is the terminal? What are some synonyms for it?
+The terminal is the black screen that you insert the commands into
+
+2.What is the prompt?
+The prompt *(or the little squiggly)* lets you know that you are in your home directory
+
+3.What is a directory?
+A directory is the folder that the files are located in, for example our programs are in the **Code** directory.
+
+4.What is cd?
+cd stands for Change Directory, it lets us navigate through our directories on the terminal. for example, if you have 2 folders in one directory simply type 'cd (directory name)' in the terminal and we will switch to that directory.
+
+5.What is npm? What does it stand for? What is it used for?
+npm stands for Notes Package Manager it is used to install packages from json files easily as their could be dozens or more of them. And obviously installing them manually would be a real pain !
+
+6.What file must be present for npm to work? (Manifest file)
+the json file, its kind of like the instruction manual for which packages the NPM needs to download and work through.
+
+7.How do we add a script to package.json?
+You can go into the package.json file on vs code, and add something under the "Scripts" section. [^1]
+
+8.How do we install a package? Why would we want to do this?
+you use the 'npmi' command and that installs the packages listed in the json then simply run the command 'npm run (nameOfScript)'
+
+9.What is Vite?
+Vite is kind of like a self contained server that runs on your system, it can be accessed using the command 'npm run dev' its important to note you will have to open up another terminal after this process starts running. One of the main benefits is that its "Hot-Reloading" so the F5 button spam can stop.
+
+### Reflections 1.5
+
+1.What does it all mean to you?
+It means the :earth_americas: to me...But no seriously all this including all the github information i believe really gets people prepared for the real world work environment perhaps better than how other classes are done and gives people a better idea of what to expect *kinda like what you said in the into/syllabus videos*
+
+2.Does it make sense (really)?
+Yes, i cant point to a specific thing and say "this don't make sense" the whole clone thing took me a minute to get correct but just required paying close attention to the video. And i was able to do it by myself in the other assignment.
+
+3.Can you imagine how these tools might be useful to your future 'real work?'
+Yes like i said in the answer before i was the community manager for a online game called vPopulus and i saw (and still do see) the developers of that game using github to "push" their changes. I can also see how using the vite thing can be very useful in just in terms of not having to break your f5 key.
+
+4.What don't you like about it? If you could change something, what would it be?
+What don't i like about?....The Class? The Terminal? I will say if i could change one thing about the terminal its the color scheme. While i do like the matrix vibe it certainly strains your eyes after a while, especially if its smaller i have to make the window bigger otherwise migraine central! problem with using a tv as a monitor everything isn't quite as fine and can be blurry.
+
+[^1]: Not sure what more to add to this question so heres some MarkUp!
