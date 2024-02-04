@@ -30,3 +30,11 @@ you use the 'npmi' command and that installs the packages listed in the json the
 Vite is kind of like a self contained server that runs on your system, it can be accessed using the command 'npm run dev' its important to note you will have to open up another terminal after this process starts running. One of the main benefits is that its "Hot-Reloading" so the F5 button spam can stop.
 
 [^1]: Not sure what more to add to this question so heres some MarkUp!
+
+1.What does it all mean to you?
+
+2.Does it make sense (really)?
+
+3.Can you imagine how these tools might be useful to your future 'real work?'
+
+4.What don't you like about it? If you could change something, what would it be?
